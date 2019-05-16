@@ -1,0 +1,183 @@
+2019-05-16, 12:19:07	ciao
+2019-05-16, 12:19:08	ciao
+2019-05-16, 12:19:08	ciao
+2019-05-16, 12:19:08	ciao
+2019-05-16, 12:19:08	ciao
+2019-05-16, 12:19:09	ciao
+2019-05-16, 12:19:09	ciao
+2019-05-16, 12:28:36	ciao
+2019-05-16, 12:28:36	ciao
+2019-05-16, 12:28:36	ciao
+2019-05-16, 12:28:36	ciao
+2019-05-16, 12:28:36	ciao
+2019-05-16, 12:28:37	ciao
+2019-05-16, 12:31:32	ciao
+2019-05-16, 12:31:32	ciao
+2019-05-16, 12:31:32	ciao
+2019-05-16, 12:31:32	ciao
+2019-05-16, 12:31:32	ciao
+2019-05-16, 12:31:32	ciao
+2019-05-16, 12:31:32	ciao
+2019-05-16, 12:31:32	ciao
+2019-05-16, 12:31:32	ciao
+2019-05-16, 12:31:32	ciao
+2019-05-16, 12:32:03	Jeep
+2019-05-16, 12:32:03	Jeep
+2019-05-16, 12:32:03	Mazda
+2019-05-16, 12:32:03	Land Rover
+2019-05-16, 12:32:03	Toyota
+2019-05-16, 12:32:03	Mazda
+2019-05-16, 12:32:03	BMW
+2019-05-16, 12:32:03	Land Rover
+2019-05-16, 12:32:03	Audi
+2019-05-16, 12:32:03	Audi
+2019-05-16, 12:33:21	Jeep
+	Compass
+	metano
+	183442
+	ED821UL
+	2
+	ok
+2019-05-16, 12:33:21	Land Rover
+	Outlander
+	metano
+	401232
+	HF675LA
+	86
+	critical
+2019-05-16, 12:33:21	Nissan
+	X-Trail
+	gpl
+	398125
+	ET262YF
+	96
+	warning
+2019-05-16, 12:33:21	Audi
+	A3
+	gpl
+	405252
+	QA734MK
+	89
+	
+2019-05-16, 12:33:21	Jeep
+	Wrangler
+	gasolio
+	36882
+	LJ361EP
+	52
+	critical
+2019-05-16, 12:33:21	Mazda
+	6
+	metano
+	301340
+	MA024TK
+	259
+	critical
+2019-05-16, 12:33:21	Nissan
+	Juke
+	elettrico
+	317082
+	CU406LP
+	63
+	warning
+2019-05-16, 12:33:21	Land Rover
+	Discovery
+	gpl
+	388562
+	XN447US
+	114
+	critical
+2019-05-16, 12:33:21	Toyota
+	Rav4
+	elettrico
+	382433
+	VO056NB
+	85
+	warning
+2019-05-16, 12:33:21	Jeep
+	Compass
+	benzina
+	197252
+	OF707NF
+	117
+	critical
+2019-05-16, 12:33:59SuzukiVitarabenzina368022UM423RY65critical2019-05-16, 12:33:59JeepRenegadegasolio112194QD019KP51critical2019-05-16, 12:33:59NissanMicraelettrico448172PO637UK40critical2019-05-16, 12:33:59Land RoverDefendermetano104364VM161JH43ok2019-05-16, 12:33:59Mazda3gasolio436483TO183MD82critical2019-05-16, 12:33:59JeepWranglerbenzina41556CK536AR0ok2019-05-16, 12:33:59Land RoverOutlandergasolio408985OL714DL141critical2019-05-16, 12:33:59Land RoverDiscoverygpl255065VC923DR2ok2019-05-16, 12:33:59BMWx5metano175229ZR462RW52ok2019-05-16, 12:33:59BMWx5benzina358158BE358ZP30ok2019-05-16, 12:34:15NissanQashqaielettrico460211EW368KY33ok
+2019-05-16, 12:34:15SuzukiSamuraimetano235737MM725GC16ok
+2019-05-16, 12:34:15AudiA3gasolio449482KK906PC5critical
+2019-05-16, 12:34:15AudiA3elettrico127621AR085YJ34critical
+2019-05-16, 12:34:15JeepRenegadegasolio333066FN957ZJ10ok
+2019-05-16, 12:34:15ToyotaPriusbenzina159916SO404EF37ok
+2019-05-16, 12:34:15NissanQashqaimetano56121IH216NO12ok
+2019-05-16, 12:34:15NissanQashqaibenzina203015XM820SS54critical
+2019-05-16, 12:34:15JeepRenegadeelettrico373625ZE834YL4ok
+2019-05-16, 12:34:15SuzukiJimnygpl497244SM592OC2ok
+2019-05-16, 12:34:47	Toyota	Prius	elettrico	329852	PX209CY	12	ok
+2019-05-16, 12:34:47	Mazda	3	gpl	385440	CC632LQ	19	ok
+2019-05-16, 12:34:47	Audi	A6	gpl	92350	NK867SD	78	critical
+2019-05-16, 12:34:47	BMW	x3	gpl	359733	XN779LN	31	warning
+2019-05-16, 12:34:47	Land Rover	Outlander	gasolio	416527	NR924HF	12	ok
+2019-05-16, 12:34:47	Jeep	Cherokee	benzina	154108	QN668HL	51	critical
+2019-05-16, 12:34:47	Nissan	Qashqai	benzina	47767	NY344CN	182	critical
+2019-05-16, 12:34:47	Mazda	6	benzina	401199	WV166VM	76	ok
+2019-05-16, 12:34:47	Mazda	5	gasolio	254867	JU449PO	109	warning
+2019-05-16, 12:34:47	Nissan	Juke	gasolio	360464	NG010BX	36	critical
+2019-05-16, 12:35:10	Jeep	Renegade	elettrico	40912	BO349OK	0	ok
+2019-05-16, 12:35:10	Jeep	Compass	elettrico	29956	FS693OB	196	critical
+2019-05-16, 12:35:10	BMW	x5	gpl	167720	JP699NS	83	critical
+2019-05-16, 12:35:10	Audi	A6	elettrico	342680	RX357ZE	51	ok
+2019-05-16, 12:35:10	Land Rover	Discovery	benzina	118614	IT510JC	224	critical
+2019-05-16, 12:35:10	BMW	x3	gpl	317258	WJ217RB	52	ok
+2019-05-16, 12:35:10	Toyota	Rav4	gasolio	200026	OB497XB	0	critical
+2019-05-16, 12:35:10	Land Rover	Outlander	elettrico	460529	YV513VG	115	
+2019-05-16, 12:35:10	Nissan	Juke	gpl	395831	HA243IS	41	ok
+2019-05-16, 12:35:10	Land Rover	Outlander	gpl	197345	OF104AB	13	ok
+2019-05-16, 12:35:14	Land Rover	Defender	metano	454401	TB015PF	4	ok
+2019-05-16, 12:35:14	Nissan	X-Trail	metano	40550	ZO923VC	4	ok
+2019-05-16, 12:35:14	Suzuki	Vitara	gasolio	12969	FW910MA	106	critical
+2019-05-16, 12:35:14	Toyota	Prius	elettrico	72249	XT799FD	202	critical
+2019-05-16, 12:35:14	Suzuki	Samurai	gasolio	71042	IS433HQ	0	ok
+2019-05-16, 12:35:14	BMW	x5	benzina	420495	JR395IU	53	warning
+2019-05-16, 12:35:14	BMW	x5	gasolio	69828	EN093TJ	92	warning
+2019-05-16, 12:35:14	Mazda	3	gpl	15477	NO844IU	18	ok
+2019-05-16, 12:35:14	Audi	A3	metano	259196	RL376PB	180	warning
+2019-05-16, 12:35:14	Toyota	Prius	gasolio	61961	YH258RO	164	critical
+2019-05-16, 12:35:18	Toyota	Rav4	benzina	167951	OZ975WY	6	ok
+2019-05-16, 12:35:18	BMW	x5	benzina	236899	LN794BY	6	ok
+2019-05-16, 12:35:18	Jeep	Cherokee	gpl	286698	IC542QF	85	warning
+2019-05-16, 12:35:18	Jeep	Wrangler	gasolio	1255	KP177VJ	19	ok
+2019-05-16, 12:35:18	Nissan	X-Trail	metano	321232	JD306OX	64	critical
+2019-05-16, 12:35:18	Toyota	Prius	gasolio	394116	WE660SE	29	ok
+2019-05-16, 12:35:18	Mazda	6	metano	288797	KK357GS	175	warning
+2019-05-16, 12:35:18	Jeep	Cherokee	benzina	131231	WQ703KZ	17	warning
+2019-05-16, 12:35:18	BMW	x3	benzina	348190	LL220SJ	93	warning
+2019-05-16, 12:35:18	Jeep	Wrangler	benzina	162774	DB492ST	54	warning
+2019-05-16, 12:35:21	Land Rover	Defender	elettrico	432028	PT636FB	111	critical
+2019-05-16, 12:35:21	Mazda	6	gasolio	166633	UK709KP	176	warning
+2019-05-16, 12:35:21	Audi	A6	gpl	271768	QD724FU	78	warning
+2019-05-16, 12:35:21	Mazda	6	benzina	160711	AX900YP	40	warning
+2019-05-16, 12:35:21	Mazda	5	metano	198476	XA496RB	132	critical
+2019-05-16, 12:35:21	Land Rover	Defender	gasolio	472637	OD628SC	94	warning
+2019-05-16, 12:35:21	Land Rover	Outlander	gasolio	461140	KX835KE	114	critical
+2019-05-16, 12:35:21	Toyota	Rav4	elettrico	271413	DR399OT	32	warning
+2019-05-16, 12:35:21	Land Rover	Defender	benzina	372769	UX711DJ	2	ok
+2019-05-16, 12:35:21	Audi	A6	gasolio	83846	HC638MF	5	ok
+2019-05-16, 12:35:23	BMW	x5	gasolio	316717	KF745BZ	77	warning
+2019-05-16, 12:35:23	BMW	x3	gpl	496753	RY307ZO	77	warning
+2019-05-16, 12:35:23	BMW	x5	elettrico	1843	VG658YP	185	critical
+2019-05-16, 12:35:23	Toyota	Prius	gasolio	419218	AK956HO	7	warning
+2019-05-16, 12:35:23	BMW	x5	gasolio	155940	ZQ878IJ	14	critical
+2019-05-16, 12:35:23	Land Rover	Discovery	gasolio	146584	PW589NE	167	critical
+2019-05-16, 12:35:23	Audi	A3	gasolio	190629	XO137NL	248	
+2019-05-16, 12:35:23	Audi	A4	gasolio	164415	PU768WR	185	critical
+2019-05-16, 12:35:23	Nissan	Micra	gasolio	220328	KW586UU	109	critical
+2019-05-16, 12:35:23	Mazda	5	benzina	302418	BI306NC	70	warning
+2019-05-16, 12:35:25	Jeep	Renegade	gasolio	366392	MG147FX	159	critical
+2019-05-16, 12:35:25	Suzuki	Vitara	metano	78398	XM665HR	60	warning
+2019-05-16, 12:35:25	Land Rover	Outlander	elettrico	287185	NF477CG	5	ok
+2019-05-16, 12:35:25	Toyota	Rav4	benzina	157324	ZX999RC	5	ok
+2019-05-16, 12:35:25	Suzuki	Samurai	elettrico	464874	HR019FG	25	warning
+2019-05-16, 12:35:25	Jeep	Cherokee	metano	134371	XO324AX	247	critical
+2019-05-16, 12:35:25	Jeep	Renegade	benzina	116494	OX660CS	186	warning
+2019-05-16, 12:35:25	Mazda	3	elettrico	238518	DP640JN	52	warning
+2019-05-16, 12:35:25	Mazda	6	elettrico	152758	RH538LY	2	ok
+2019-05-16, 12:35:25	BMW	x5	gpl	311786	QF685KX	147	critical

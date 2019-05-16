@@ -6,7 +6,6 @@
 
     $auto = [];
 
-
     for ($i = 0; $i < 10; $i++) {
         $marca = Macchina::extract_to_array(count($macchine['marche']) - 1, $macchine['marche']);
         $car = new Macchina($marca, Macchina::extract_to_array(count($macchine['modelli'][$marca]) - 1, $macchine['modelli'][$marca]));
@@ -18,6 +17,7 @@
         $car->setMessage(Macchina::code($numero));
 
 
+    to_log($car, 'ciao');
         array_push($auto, $car);
 
     }

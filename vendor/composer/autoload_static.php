@@ -8,6 +8,7 @@ class ComposerStaticInit6bd3b65749426f08d7f337cb3166d622
 {
     public static $files = array (
         '9686bd7b020537cd837b84de4d2b46db' => __DIR__ . '/..' . '/src/macchine.php',
+        'b4546c0f2c36e376009e1ef09f264d2d' => __DIR__ . '/../..' . '/helper.php',
     );
 
     public static $prefixLengthsPsr4 = array (
@@ -69,7 +70,7 @@ class ComposerStaticInit6bd3b65749426f08d7f337cb3166d622
         'Mustache_Source_FilesystemSource' => __DIR__ . '/..' . '/mustache/mustache/src/Mustache/Source/FilesystemSource.php',
         'Mustache_Template' => __DIR__ . '/..' . '/mustache/mustache/src/Mustache/Template.php',
         'Mustache_Tokenizer' => __DIR__ . '/..' . '/mustache/mustache/src/Mustache/Tokenizer.php',
-        'Src\\macchina' => __DIR__ . '/..' . '/src/Macchina.php',
+        'Src\\Macchina' => __DIR__ . '/..' . '/src/Macchina.php',
     );
 
     public static function getInitializer(ClassLoader $loader)

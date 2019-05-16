@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     '9686bd7b020537cd837b84de4d2b46db' => $vendorDir . '/src/macchine.php',
+    'b4546c0f2c36e376009e1ef09f264d2d' => $baseDir . '/helper.php',
 );
