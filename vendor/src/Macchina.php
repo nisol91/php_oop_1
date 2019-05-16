@@ -100,18 +100,14 @@ class Macchina
      * stringa di log: non deve essere in append ma deve essere sovrascritto ogni volta.
      * [yyy-mm-gg hh:mm:ss] <nome classe> : tipo di errore : macchina e attributi divisi da virgole(marca, modello, ecc...)
      * crea file di tipo helper e mettici questa funzione to_log , non metterla qui tra i metodi statici.
-     * il messaggio di errore viene stampato quando c e un problema nella macchina. si definisce un attributo ulteriore che
-     * mi dice se c e il problema oppure no. se il problema è tra 0 e 100 è di tipo ok,
-     * se è tra 100 e 200 è warning, 200 300 critical, se invece è maggiore di 300 la macchina è da buttare.
+     * il messaggio di errore viene stampato quando c e un problema nella macchina.
      * creo quindi cartella di tipo log in cui metto il file car.log stampato.
      * il log parte all istanza dell oggetto Macchina, ovvero al refresh.
-     * dentro a mustache stampo se c e warning , ok, critical o da buttare.
-     * ogni nuova feature faccio un branch con relativa pull request.
+     *
+     *
      */
 
-    public static function to_log( Macchina $car ) {
 
-    }
 
     public static function code($number) {
         if ($number < 100) {
