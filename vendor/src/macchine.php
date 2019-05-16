@@ -5,13 +5,20 @@
 function macchine() {
 
     return [
-        'marche' => ['BMW', 'Audi', 'Nissan'],
+        'marche' => ['BMW', 'Audi', 'Nissan', 'Toyota', 'Mazda', 'Land Rover', 'Jeep', 'Suzuki'],
         'modelli' => [
             'BMW' => ['x3', 'x5'],
             'Audi' => ['A3', 'A4', 'A6'],
-            'Nissan' => ['X-Trail', 'Qashqai', 'Micra'],
+            'Nissan' => ['X-Trail', 'Qashqai', 'Micra', 'Juke'],
+            'Toyota' => ['Rav4', 'Corolla', 'Prius'],
+            'Mazda' => ['5', '3', '6'],
+            'Land Rover' => ['Defender', 'Outlander', 'Discovery'],
+            'Jeep' => ['Compass', 'Cherokee', 'Renegade', 'Wrangler'],
+            'Suzuki' => ['Jimny', 'Vitara', 'Samurai'],
         ],
-        'carburante' => ['benzina', 'gasolio', 'metano', 'elettrico'],
+        'carburante' => ['benzina', 'gasolio', 'metano', 'elettrico', 'gpl'],
+//        'codice' => ['ok', 'warning', 'critical', 'death'],
+
     ];
 }
 

@@ -3,7 +3,10 @@
     "mustache/mustache": "~2.5"
   },
   "autoload": {
-    "files": ["vendor/src/macchine.php"],
+    "files": [
+      "vendor/src/macchine.php",
+      "vendor/app/helper.php"
+    ],
     "psr-4": {
       "Src\\": "vendor/src/"
     }
