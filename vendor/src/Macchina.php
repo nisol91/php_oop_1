@@ -14,6 +14,10 @@ class Macchina
     private $carb = '';
     private $km = '';
     private $targ = '';
+    private $code = '';
+    private $message = '';
+
+
 
     const LIMITE_NUMERI = 2;
     const LIMITE_LETTERE = 3;
@@ -39,6 +43,12 @@ class Macchina
     public function setTarg($targ) {
         $this->targ = $targ;
     }
+    public function setCode($code) {
+        $this->code = $code;
+    }
+    public function setMessage($message) {
+        $this->message = $message;
+    }
 
     public function getCarb() {
         return $this->carb;
@@ -48,6 +58,12 @@ class Macchina
     }
     public function getTarg() {
         return $this->targ;
+    }
+    public function getCode() {
+        return $this->code;
+    }
+    public function getMessage() {
+        return $this->message;
     }
 
 
@@ -82,7 +98,6 @@ class Macchina
     /*
      * TODO
      * stringa di log: non deve essere in append ma deve essere sovrascritto ogni volta.
-     * prima aggiungi un po di marche e di modelli
      * [yyy-mm-gg hh:mm:ss] <nome classe> : tipo di errore : macchina e attributi divisi da virgole(marca, modello, ecc...)
      * crea file di tipo helper e mettici questa funzione to_log , non metterla qui tra i metodi statici.
      * il messaggio di errore viene stampato quando c e un problema nella macchina. si definisce un attributo ulteriore che
@@ -91,9 +106,25 @@ class Macchina
      * creo quindi cartella di tipo log in cui metto il file car.log stampato.
      * il log parte all istanza dell oggetto Macchina, ovvero al refresh.
      * dentro a mustache stampo se c e warning , ok, critical o da buttare.
+     * ogni nuova feature faccio un branch con relativa pull request.
      */
 
     public static function to_log( Macchina $car ) {
 
+    }
+
+    public static function code($number) {
+        if ($number < 100) {
+            return 'ok';
+        } else if ($number > 100 && $number < 200) {
+            return 'warning';
+
+        } else if ($number > 200 && $number < 300) {
+            return 'critical';
+
+        } else if ($number > 300) {
+            return 'death';
+
+        }
     }
 }
