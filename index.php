@@ -13,8 +13,8 @@
         $car->setCarb(Macchina::extract_to_array(count($macchine['carburante']) - 1, $macchine['carburante']));
         $car->setKm(Macchina::extract_to_array(500000));
         $car->setTarg(Macchina::targ());
-        $car->setCode(Macchina::extract_to_array(300));
-        $numero = $car->setCode(Macchina::extract_to_array(300));
+        $numero = Macchina::extract_to_array(300);
+        $car->setCode(Macchina::extract_to_array($numero));
         $car->setMessage(Macchina::code($numero));
 
 
