@@ -6,8 +6,8 @@
 
     $auto = [];
 
-
-    for ($i = 0; $i < 10; $i++) {
+    clear_log();
+    for ($i = 0; $i < 50; $i++) {
         $marca = Macchina::extract_to_array(count($macchine['marche']) - 1, $macchine['marche']);
         $car = new Macchina($marca, Macchina::extract_to_array(count($macchine['modelli'][$marca]) - 1, $macchine['modelli'][$marca]));
         $car->setCarb(Macchina::extract_to_array(count($macchine['carburante']) - 1, $macchine['carburante']));
@@ -19,6 +19,7 @@
 
 
         array_push($auto, $car);
+        to_log($car);
 
     }
 

@@ -17,7 +17,6 @@ function macchine() {
             'Suzuki' => ['Jimny', 'Vitara', 'Samurai'],
         ],
         'carburante' => ['benzina', 'gasolio', 'metano', 'elettrico', 'gpl'],
-//        'codice' => ['ok', 'warning', 'critical', 'death'],
 
     ];
 }
