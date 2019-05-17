@@ -40,5 +40,6 @@ return array(
     'Mustache_Source_FilesystemSource' => $vendorDir . '/mustache/mustache/src/Mustache/Source/FilesystemSource.php',
     'Mustache_Template' => $vendorDir . '/mustache/mustache/src/Mustache/Template.php',
     'Mustache_Tokenizer' => $vendorDir . '/mustache/mustache/src/Mustache/Tokenizer.php',
+    'Src\\Log' => $vendorDir . '/src/Log.php',
     'Src\\Macchina' => $vendorDir . '/src/Macchina.php',
 );

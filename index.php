@@ -1,12 +1,20 @@
-    <?php
-    require 'vendor/autoload.php';
+<?php
     use Src\Macchina;
+    use Src\Log;
+
+    require 'vendor/autoload.php';
 
     $macchine = macchine();
 
     $auto = [];
 
-    clear_log();
+//    clear_log();
+
+    $log_ = new Log('car.log');
+//    var_dump($log_);
+    $log_->clear_log();
+
+
     for ($i = 0; $i < 50; $i++) {
         $marca = Macchina::extract_to_array(count($macchine['marche']) - 1, $macchine['marche']);
         $car = new Macchina($marca, Macchina::extract_to_array(count($macchine['modelli'][$marca]) - 1, $macchine['modelli'][$marca]));
@@ -16,10 +24,14 @@
         $numero = Macchina::extract_to_array(300);
         $car->setCode(Macchina::extract_to_array($numero));
         $car->setMessage(Macchina::code($numero));
-
-
         array_push($auto, $car);
-        to_log($car);
+
+//        to_log($car);
+
+
+        $log_->to_log($car);
+        $log_->write_log();
+
 
     }
 
